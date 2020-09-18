@@ -8,3 +8,6 @@
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 ![ViewCount](https://views.whatilearened.today/views/github/wfy-belief/wfy-belief.svg?cache=remove)
 
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wfy-belief&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
+
